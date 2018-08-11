@@ -25,13 +25,9 @@ We aim to deliver an experience with original ideas and features along with the 
  [MENTION=7277582]kvijaya[/MENTION]
  [MENTION=7771149]YashGarg10[/MENTION]
 
-[B]Design[/B]:
-
-Kbijaya
-
 [IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/oreo/Donations.png[/IMG]
 
-[URL="https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=yd70NG6Ly_ll8X7s_geks-6aRKwAB7L52GzFVcbYKfzcITufLvO2gyvMXw4&dispatch=5885d80a13c0db1f8e263663d3faee8db8175432b4df92754f4b4adb5a123d61&rapidsState=Donation__DonationFlow___StateDonationLogin&rapidsStateSignature=29edb8f3e3039a71f1a46a5c25f687590c6a980d"]Support Us if you like our work[/URL]
+[URL="https://www.paypal.me/SubinsMani"]Support Us if you like our work[/URL]
 
 
 [SIZE=+1]Got an issue or suggestion? Reach us at[/SIZE]
