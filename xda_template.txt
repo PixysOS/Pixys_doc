@@ -1,4 +1,4 @@
-[CENTER][IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/oreo/Banner.png[/IMG]
+[CENTER][IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/oreo/pixys2.png[/IMG]
 
 [CODE]#include <std_disclaimer.h>
 /*
@@ -21,7 +21,6 @@ We aim to deliver an experience with original ideas and features along with the 
  [MENTION=7868666]Subinsmani[/MENTION]
  [MENTION=4912374]rahul9999[/MENTION]
  [MENTION=7598239]@ki[/MENTION]
- [MENTION=7233293]ZJRDroid[/MENTION]
  [MENTION=7277582]kvijaya[/MENTION]
  [MENTION=7771149]YashGarg10[/MENTION]
 
@@ -34,19 +33,45 @@ We aim to deliver an experience with original ideas and features along with the 
 [B]Telegram[/B]: [URL]https://telegram.me/pixysos_chat[/URL]
 
 [IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/oreo/Features.png[/IMG]
-[B][SIZE="3"]Pixel nav buttons + Animation
-Battery icon customization
-Pixel ringtones
-Dark/White Themes 
-Fruity Pebbles
-Native fonts support
-Brand new VoLTE icon
-Brand new wallpapers
-Pixel Launcher by amir zaidi
-Over 15 accents to choose from
-Notification style[/SIZE][/B]
+[B][SIZE="3"]Battery icon customization[/SIZE][/B]
+- Portrait, Circle, Dotted circle, Text & hidden battery icon styles
+- Hidden, Next to the icon & inside the icon battery % styles
+- New charging animation Added to Battery Manager from Pixel Devices
 
-[B]OTA Updates support[/B]: Coming soon!
+[B][SIZE="3"]Display settings customization[/SIZE][/B]
+- Font size customization according to percentage
+- Toast App Icon (Toggable)
+- Lockscreen Charging Info (Toggable)
+- DTS(Status Bar) (Toggable)
+- 21 Accents Added
+- Dark Theme Added
+- Black Theme Added
+
+[B][SIZE="3"]Sound settings customization[/SIZE][/B]
+- Short Cut to prevet Ring added(Pressing power + volume up)
+- Screnshot Sound (Toggable)
+- Charging Vibration (Toggable)
+
+[B][SIZE="3"]Security settings customization[/SIZE][/B]
+- Auto Face Unlock (Toggable)
+- fingerprint Authentication Viberation (Toggable)
+- DTS on Lockscreen (Toggable)
+
+[B][SIZE="3"]Button settings customization[/SIZE][/B]
+- Volume rocker playback control (Toggable)
+- Volume rocker wake (Toggable)
+- Volume key cursor control
+- Clear All Button
+- Navigation bar (Toggable)
+- Navigation bar customization
+
+[B][SIZE="3"]Miscellaneous[/SIZE][/B]
+- Pixel ringtones
+- Powermenu customization
+- Battery light customization
+- Lockscreen shortcuts
+- New Wallpaper Credits to @kvijaya
+- OTA Updates support
 
 [IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/oreo/Sources.png[/IMG]
 [B]Pixys:[/B] [URL="https://github.com/PixysOS"]PixysOS[/URL]
@@ -117,7 +142,9 @@ Magisk versions higher than 14.0 doesn't require flash on every dirty flash depe
 
 [IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/oreo/Download.png[/IMG]
 [B]ROM:[/B] Share your compile rom download link here
-[B]GApps:[/B] [URL="https://opengapps.org"]OpenGApps[/URL]
+[B]GApps:[/B] 
+[URL="https://builds.nezorfla.me/?dir=opengapps/pie"]Unofficial OpenGApps[/URL]
+[URL="https://opengapps.org"]OpenGApps[/URL]
 
 [IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/oreo/Known%20Issues.png[/IMG]
 
@@ -132,7 +159,7 @@ You tell... :P
 - Pixel experience
 - AOSP extended
 - LineageOS
-- Amir Zaidi for Pixel Launcher
+- Nitrogen Os
 - AICP & POSP Team for thread template idea
 - Also many pro devs who all help us to bring this rom to you..
 - Please let us know if we forgot to mention your name in credits..[/CENTER]
@@ -146,11 +173,11 @@ only mention the main ones though, probably the top four or so, otherwise this l
 [B]Kernel source:[/B]
 [B]Put the Github link to your kernel HERE (mandatory), not posting the kernel source violates the GPL, and also violates the rules on XDA ...[/B]
 
-[B]ROM OS Version:[/B] 8.1.x Oreo
+[B]ROM OS Version:[/B] 9.x.x Pie
 [B]ROM Kernel:[/B] Linux x.x.y (EG: 3.18.y)
 [B]Based On:[/B] AOSP
 
 [B][U]Version Information[/U][/B]
 [B]Status:[/B] Beta/Stable
-[B]Current Version:[/B] v1.x
+[B]Current Version:[/B] v2.x
 [B]Release Date:[/B] mm-dd-yyyy
