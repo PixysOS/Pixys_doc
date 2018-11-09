@@ -23,6 +23,7 @@ We aim to deliver an experience with original ideas and features along with the 
  [MENTION=7598239]@ki[/MENTION]
  [MENTION=7277582]kvijaya[/MENTION]
  [MENTION=7771149]YashGarg10[/MENTION]
+ [MENTION=8926624]Gero[/MENTION]
 
 [IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/oreo/Donations.png[/IMG]
 
@@ -33,6 +34,16 @@ We aim to deliver an experience with original ideas and features along with the 
 [B]Telegram[/B]: [URL]https://telegram.me/pixysos_chat[/URL]
 
 [IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/oreo/Features.png[/IMG]
+
+[B][SIZE="3"]Networks And Internet[/SIZE][/B]
+- Roaming Indicator
+- 4G Icon
+- VoLTE icon
+- Show Data Disabled Icon
+
+[B][SIZE="3"]Apps and Notifications[/SIZE][/B]
+- Heads Up
+
 [B][SIZE="3"]Battery icon customization[/SIZE][/B]
 - Portrait, Circle, Dotted circle, Text & hidden battery icon styles
 - Hidden, Next to the icon & inside the icon battery % styles
@@ -46,6 +57,10 @@ We aim to deliver an experience with original ideas and features along with the 
 - 21 Accents Added
 - Dark Theme Added
 - Black Theme Added
+- Accidental Touch
+- Recent UI (oreo/pie)
+- Dashboard Conditions
+- Dashboard Sugesstions
 
 [B][SIZE="3"]Sound settings customization[/SIZE][/B]
 - Short Cut to prevet Ring added(Pressing power + volume up)
@@ -56,6 +71,8 @@ We aim to deliver an experience with original ideas and features along with the 
 - Auto Face Unlock (Toggable)
 - fingerprint Authentication Viberation (Toggable)
 - DTS on Lockscreen (Toggable)
+- Apps Ops
+- Lockscreen Powermenue Visibility
 
 [B][SIZE="3"]Button settings customization[/SIZE][/B]
 - Volume rocker playback control (Toggable)
@@ -160,6 +177,7 @@ You tell... :P
 - AOSP extended
 - LineageOS
 - Nitrogen Os
+- Bootleggers Rom
 - AICP & POSP Team for thread template idea
 - Also many pro devs who all help us to bring this rom to you..
 - Please let us know if we forgot to mention your name in credits..[/CENTER]
