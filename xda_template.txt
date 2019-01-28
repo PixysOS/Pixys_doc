@@ -43,11 +43,13 @@ We aim to deliver an experience with original ideas and features along with the 
 
 [B][SIZE="3"]Apps and Notifications[/SIZE][/B]
 - Heads Up
+- Clock Settings
 
 [B][SIZE="3"]Battery icon customization[/SIZE][/B]
 - Portrait, Circle, Dotted circle, Text & hidden battery icon styles
 - Hidden, Next to the icon & inside the icon battery % styles
 - New charging animation Added to Battery Manager from Pixel Devices
+- Clearn button to clear  the Battery Stats
 
 [B][SIZE="3"]Display settings customization[/SIZE][/B]
 - Font size customization according to percentage
@@ -61,6 +63,8 @@ We aim to deliver an experience with original ideas and features along with the 
 - Recent UI (oreo/pie)
 - Dashboard Conditions
 - Dashboard Sugesstions
+- QS tile Style
+- Fonts
 
 [B][SIZE="3"]Sound settings customization[/SIZE][/B]
 - Short Cut to prevet Ring added(Pressing power + volume up)
@@ -73,6 +77,7 @@ We aim to deliver an experience with original ideas and features along with the 
 - DTS on Lockscreen (Toggable)
 - Apps Ops
 - Lockscreen Powermenue Visibility
+- Weather Temp 
 
 [B][SIZE="3"]Button settings customization[/SIZE][/B]
 - Volume rocker playback control (Toggable)
