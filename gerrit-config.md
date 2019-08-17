@@ -13,7 +13,7 @@ Then it will ask to add passphrase, for blank pass press enter
 
 ## Setting up gerrit account
 
-Open `http://gerrit.pixysos.org` and Sign-up with ur github. After successfull sign-up go to `http://gerrit.pixysos.org/#/settings/contact` and register ur email, and then go to `http://gerrit.pixysos.org/#/settings`, make sure there every info should be filled up there.
+Open `http://gerrit.pixysos.com` and Sign-up with ur github. After successfull sign-up go to `http://gerrit.pixysos.com/#/settings/contact` and register ur email, and then go to `http://gerrit.pixysos.com/#/settings`, make sure there every info should be filled up there.
 
 ```
 1. Username       xxxxxx
@@ -31,7 +31,7 @@ Open your terminal and type:
 cat .ssh/id_rsa.pub
 ```
 
-Copy the SSH key and paste it on `http://gerrit.pixysos.org/#/settings/ssh-keys` and save it.
+Copy the SSH key and paste it on `http://gerrit.pixysos.com/#/settings/ssh-keys` and save it.
 
 ## Creating config file
 
@@ -42,8 +42,8 @@ First type:
 And add these details there: 
 
 ```    
-Host gerrit.pixysos.org
-HostName gerrit.pixysos.org
+Host gerrit.pixysos.com
+HostName gerrit.pixysos.com
 Port 29418
 User <YourGerritUsername>
 ```
@@ -62,7 +62,7 @@ $ chmod 600 .ssh/id_rsa
 
 ## Checking everything
 
-To check everything is fine, do a connection Test by typing -> `ssh gerrit.pixysos.org` [Type yes if they ask for it]
+To check everything is fine, do a connection Test by typing -> `ssh gerrit.pixysos.com` [Type yes if they ask for it]
 
 ```
                Welcome to Gerrit Code Review
@@ -72,9 +72,9 @@ Hi <YourGerritUserName>, you have successfully connected over SSH.
 Unfortunately, interactive shells are disabled.
 To clone a hosted Git repository, use:
 
-git clone ssh://<YourGerritUserName>@gerrit.pixysos.org:29418/REPOSITORY_NAME.git
+git clone ssh://<YourGerritUserName>@gerrit.pixysos.com:29418/REPOSITORY_NAME.git
 
-Connection to gerrit.pixysos.org closed.
+Connection to gerrit.pixysos.com closed.
 ```
 
 [If you get the above output message, your gerrit is configured]
@@ -83,8 +83,8 @@ Connection to gerrit.pixysos.org closed.
 
 Commit all required changes you need to push and use the below command to add hook to it:
 
-`$ gitdir=$(git rev-parse --git-dir); scp -p -P 29418 <YourGerritUsername>@gerrit.pixysos.org:hooks/commit-msg ${gitdir}/hooks/`
+`$ gitdir=$(git rev-parse --git-dir); scp -p -P 29418 <YourGerritUsername>@gerrit.pixysos.com:hooks/commit-msg ${gitdir}/hooks/`
 
 Then use the following command to push:
 
-`$ git push ssh://<YourGerritUserName>@gerrit.pixysos.org:29418/PixysOS/<REPOSITORY_NAME> HEAD:refs/for/<branchname>`
+`$ git push ssh://<YourGerritUserName>@gerrit.pixysos.com:29418/PixysOS/<REPOSITORY_NAME> HEAD:refs/for/<branchname>`
