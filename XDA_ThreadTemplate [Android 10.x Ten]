@@ -12,12 +12,12 @@
  */[/CODE]
 
 
-[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/oreo/About.png[/IMG]
+[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/android-10/Q-stuff/about.PNG[/IMG]
 Pixys is a butter smooth Android aftermarket firmware. We handpicked the best features around and are adding our own juice into it.
 Get ready to taste the unique features it brings with itself.
 We aim to deliver an experience with original ideas and features along with the useful things the community is accustomed to.
 
-[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/oreo/Team.png[/IMG]
+[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/android-10/Q-stuff/Team.PNG[/IMG]
  [MENTION=7868666]Subinsmani[/MENTION]
  [MENTION=4912374]rahul9999[/MENTION]
  [MENTION=7598239]@ki[/MENTION]
@@ -29,69 +29,22 @@ We aim to deliver an experience with original ideas and features along with the 
  [MENTION=8926624]Gero[/MENTION]
  [MENTION=6969064]melvingarcia[/MENTION]
 
-[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/oreo/Donations.png[/IMG]
+[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/android-10/Q-stuff/donations.PNG[/IMG]]
 
 [URL="https://www.paypal.me/SubinsMani"]Support Us if you like our work[/URL]
-
 
 [SIZE=+1]Got an issue or suggestion? Reach us at[/SIZE]
 [B]Telegram[/B]: [URL]https://telegram.me/pixysos_chat[/URL]
 
-[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/oreo/Features.png[/IMG]
+[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/android-10/Q-stuff/features.PNG[/IMG]
 
 [B][SIZE="3"]Coming soon :)[/SIZE][/B]
 
-[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/oreo/Sources.png[/IMG]
+[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/android-10/Q-stuff/source.PNG[/IMG]
 [B]Pixys:[/B] [URL="https://github.com/PixysOS"]PixysOS[/URL]
 [B]Pixys Device Sources:[/B] [URL="https://github.com/PixysOS-Devices"]PixysOSDevices[/URL]
 
-[B][U][COLOR="Blue"]FAQ:[/COLOR][/U][/B]
-[HIDE][B]Before using the ROM:[/B]
-[COLOR="Red"]Q. [I]Can I have an ETA for the next build?[/I][/COLOR]
-[COLOR="Blue"]A. Yes, just look in the OP to see if your device is built on a nightly or weekly schedule.[/COLOR]
-
-[COLOR="Red"]Q. [I] Does this ROM [B]support[/B] custom kernels?[/I][/COLOR]
-[COLOR="Blue"]A. No. You can still use them, but discussion should go in the thread of the respective kernel. We don't offer support for bugs you might encounter while using them![/COLOR]
-
-[COLOR="Red"]Q. [I]Why doesn't this ROM support Xposed?[/I][/COLOR]
-[COLOR="Blue"]A. Xposed is a hack that is geared towards AOSP, custom ROM's modify the framework a lot, so Xposed can cause a ton of issues on custom ROM's. Now it might work for you, however it is not to be discussed in this thread, and you should refrain from posting bug reports. [/COLOR]
-
-[COLOR="Red"]Q. [I]Alright, but I still want to flash Xposed, so which version do I need to install?[/I][/COLOR]
-[COLOR="Blue"]A.  You will need to use the version arm64/arm/whatever for SDK 27.[/COLOR]
-
-[B]Flashing the ROM:[/B]
-[COLOR="Red"]Q. [I]What do I need to know before flashing?[/I][/COLOR]
-[COLOR="Blue"]A. Check the install instructions in the first post...[/COLOR]
-
-[COLOR="Red"]Q. [I]Can the builds be dirty flashed over each other?[/I][/COLOR]
-[COLOR="Blue"]A. Yes, however make a nandroid backup first as there is a chance of getting a bootloop or encountering bugs. Also bugs may only be reported on a clean flash.[/COLOR]
-
-[COLOR="Red"]Q. [I]How do I dirty flash builds?[/I][/COLOR]
-[COLOR="Blue"]A. Wipe the System, Cache and ART/Dalvik cache. Flash the ROM, GApps (only needed if you wipe the system), your preferred root solution and reboot. Or just use the OTA app to preform that task for you.[/COLOR]
-
-[COLOR="Red"]Q. [I]How do I flash kernel builds?[/I][/COLOR]
-[COLOR="Blue"]A1. If it's a .img file, boot into TWRP and go to the install page in TWRP, in the bottom right corner select "install image", select the desired kernel, then select "boot", then swipe to flash, then go back to the install screen and install your root method again, if you don't want to loose root and reboot.[/COLOR]
-[COLOR="Blue"]A2. If it's a flashable ZIP, you can flash it together with a ROM update or separately. Go to the install page in TWRP, choose the kernel zip (or add it to the flash queue right after the ROM zip). Then add your root method to the queue if you don't want to loose root. Now swipe to flash, and then reboot.[/COLOR]
-
-[B]Using the ROM:[/B]
-
-[COLOR="Red"]Q. [I]I installed a bad theme and now I'm getting a bootloop, how do I fix it?[/I][/COLOR]
-[COLOR="Blue"]A. In TWRP, flash the substratum rescue zip that's in the substratum folder on the internal storage.[/COLOR]
-
-[COLOR="Red"]Q. [I]Do I need to provide a logcat if I'm reporting a bug?[/I][/COLOR]
-[COLOR="Blue"]A. If you want it to be fixed faster (or at all) then yes, you should definitely provide a logcat. (Note: Please just link the logcat from your GDrive, Dropbox, etc. and do not post the content here. Thanks.[/COLOR]
-
-[COLOR="Red"]Q. [I]How do I get a logcat, what type should I get and more questions that can conveniently be answered by my pre-determined answer?[/I][/COLOR]
-[COLOR="Blue"]A1. Read [URL="https://docs.google.com/document/d/1Hj289Mv_13uHyW7ZSp0nId37Up3NBBrrScKRMqUaCII/edit"]this[/URL] thoroughly. Also, here's a good app for getting logs: [url]https://play.google.com/store/apps/details?id=com.tortel.syslog[/url] (Root needed).[/COLOR][/HIDE]
-
-[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/oreo/Instructions.png[/IMG]
-The ROM should contain everything you need to enjoy Android. You don't need to install any Add-on's, simply download the latest ROM, GApps, flash it and go!
-If you want the device to run the ROM "rooted", you can flash a root solution of your choice after the ROM Zipfile.
-
-It is STRONGLY recommended to fully wipe your device before flashing and please avoid restoring system apps and system data with Titanium Backup as this can cause stability issues that are very hard to debug.
-If you believe you know what you're doing - then fine, go ahead, but please don't complain if you experience any strange behavior.
-
-[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/oreo/Install.png[/IMG]
+[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/android-10/Q-stuff/install.PNG[/IMG]
 [B]- Backup your personal data (Important)
 - Download the ROM and GApps and transfer them to your device.
 - Boot to recovery (TWRP recommended).
@@ -108,21 +61,20 @@ The root solution should be flashed together with every update (= ROM Update)[/B
 [COLOR="DarkRed"][URL="https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445"]Magisk stable[/URL][/COLOR]
 Magisk versions higher than 14.0 doesn't require flash on every dirty flash depending on the device, some devices need you to flash it every time, unless your maintainer says otherwise it should be fine
 
-[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/oreo/Download.png[/IMG]
+[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/android-10/Q-stuff/download.PNG[/IMG]
 [B]ROM:[/B] Share your compile rom download link here
 [B]GApps:[/B] 
 [URL="https://opengapps.org"]OpenGApps[/URL]
 
-[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/oreo/Known%20Issues.png[/IMG]
+[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/android-10/Q-stuff/known%20issues.PNG[/IMG]
 
 You tell... :P
 
-[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/oreo/Credits.png[/IMG]
+[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/android-10/Q-stuff/credits.PNG[/IMG]
 
 - Google for AOSP
 - AOSCP
 - Dirty Unicorns
-- Bootleggers
 - Pixel experience
 - AOSP extended
 - LineageOS
@@ -143,7 +95,7 @@ only mention the main ones though, probably the top four or so, otherwise this l
 [B]Put the Github link to your kernel HERE (mandatory), not posting the kernel source violates the GPL, and also violates the rules on XDA ...[/B]
 
 [B]ROM OS Version:[/B] 10.x.x Ten
-[B]ROM Kernel:[/B] Linux x.x.y (EG: 3.18.y)
+[B]ROM Kernel:[/B] Linux x.x.y (EG: 4.4.y)
 [B]Based On:[/B] AOSP
 
 [B][U]Version Information[/U][/B]
