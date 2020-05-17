@@ -46,6 +46,7 @@ Host gerrit.pixysos.com
 HostName gerrit.pixysos.com
 Port 29418
 User <YourGerritUsername>
+IdentityFile ~/.ssh/id_rsa
 ```
 
 Save and exit the file after doing so.
