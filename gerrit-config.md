@@ -13,7 +13,7 @@ Then it will ask to add passphrase, for blank pass press enter
 
 ## Setting up gerrit account
 
-Open `http://gerrit.pixysos.com` and Sign-up with ur github. After successfull sign-up go to `http://gerrit.pixysos.com/#/settings/contact` and register ur email, and then go to `http://gerrit.pixysos.com/#/settings`, make sure there every info should be filled up there.
+Open `http://gerrit.pixysos.com` and Sign-up with ur github. After successfull sign-up go to `https://gerrit.pixysos.com/settings/#EmailAddresses` and register ur email, and then go to `https://gerrit.pixysos.com/settings/#Profile`, make sure there every info should be filled up there.
 
 ```
 1. Username       xxxxxx
@@ -28,10 +28,10 @@ Open `http://gerrit.pixysos.com` and Sign-up with ur github. After successfull s
 Open your terminal and type: 
 
 ```bash
-cat .ssh/id_rsa.pub
+cat ~/.ssh/id_rsa.pub
 ```
 
-Copy the SSH key and paste it on `http://gerrit.pixysos.com/#/settings/ssh-keys` and save it.
+Copy the SSH key and paste it on `https://gerrit.pixysos.com/settings/#SSHKeys` and save it.
 
 ## Creating config file
 
@@ -56,12 +56,12 @@ Save and exit the file after doing so.
 Type the following commands:
 
 ```bash
-$ chmod 600 .ssh/config
 $ chmod 700 .ssh/
+$ chmod 600 .ssh/config
 $ chmod 600 .ssh/id_rsa
 ```
 
-## Checking everything
+## Testing Connection between gerrit and you server
 
 To check everything is fine, do a connection Test by typing -> `ssh gerrit.pixysos.com` [Type yes if they ask for it]
 
@@ -82,10 +82,14 @@ Connection to gerrit.pixysos.com closed.
 
 ## Pushing changes to gerrit
 
-Commit all required changes you need to push and use the below command to add hook to it:
+Commit all required changes you need to use Below Command to push your changes to Gerrit:
+
+`$ git push ssh://<YourGerritUserName>@gerrit.pixysos.com:29418/PixysOS/<REPOSITORY_NAME> HEAD:refs/for/<branchname>`
+
+If You get error that commit-id missing, then use the below command to add commit if to your changes.
 
 `$ gitdir=$(git rev-parse --git-dir); scp -p -P 29418 <YourGerritUsername>@gerrit.pixysos.com:hooks/commit-msg ${gitdir}/hooks/`
 
-Then use the following command to push:
+`$ git commit --amend --no-edit`
 
-`$ git push ssh://<YourGerritUserName>@gerrit.pixysos.com:29418/PixysOS/<REPOSITORY_NAME> HEAD:refs/for/<branchname>`
+Thats it, you have pushed you first commit to gerrit successfully.
