@@ -25,7 +25,7 @@ We aim to deliver an experience with original ideas and features along with the 
  [MENTION=7277582]kvijaya[/MENTION]
  [MENTION=5057155]AxelBlaz3[/MENTION]
  [MENTION=6237352]Psycho-Mods[/MENTION]
- [MENTION=7590774]amarbajpai[/MENTION]
+ [MENTION=7590774]aswin_a_s[/MENTION]
  [MENTION=8926624]Gero[/MENTION]
  [MENTION=6969064]melvingarcia[/MENTION]
 
@@ -38,7 +38,56 @@ We aim to deliver an experience with original ideas and features along with the 
 
 [IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/android-10/Q-stuff/features.PNG[/IMG]
 
-[B][SIZE="3"]Coming soon :)[/SIZE][/B]
+[B][SIZE="3"]Status Bar[/SIZE][/B]
+- Traffic Indicators
+- Double-tap on Status Bar To Sleep
+- System items(Enable/Disable status bar Icons)
+- Battery Icone Style
+- Battery percentage
+- Battery Bar
+- Roaming Indicator
+- Data Icons(Enable /Disable)
+- Old Style Signal Icon
+- 4G/LTE Icon
+- VoLTE Icon(Enable/Disable)
+- Clock And date Customization
+
+[B][SIZE="3"]Quick Settings[/SIZE][/B]
+- QS Viberation
+- Brightness Slider Position
+- Auto Brightness Icon(Enable /Disable)
+- QS Icon Animations
+
+[B][SIZE="3"]Notification[/SIZE][/B]
+- Heads Up
+- Noisy Notification
+- Notification Header(Enable/Disable)
+- In Call Viberation
+
+[B][SIZE="3"]Buttons[/SIZE][/B]
+- Acidental Touch
+- Hardware Key Customizations
+- Navigation Button Customization
+- Voulume Button Customizations
+
+[B][SIZE="3"]Lockscreens[/SIZE][/B]
+- Pulse Ambient Display on New Song
+- Media Artwork
+- Fingerprint Settings
+- Double Tap on Lockscreen to Sleep
+- Lockscreen Charging
+
+[B][SIZE="3"]Gestures[/SIZE][/B]
+- Include all AOSP Gestures
+- Three Finger Screenshot Gesture
+- Adaptive Playback
+- Playback Control
+
+[B][SIZE="3"]Miscelleneous[/SIZE][/B]
+- Gaming Mode
+- Toast App Icon
+- Enable Auto battery Saver
+- Agressive battery 
 
 [IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/android-10/Q-stuff/source.PNG[/IMG]
 [B]Pixys:[/B] [URL="https://github.com/PixysOS"]PixysOS[/URL]
