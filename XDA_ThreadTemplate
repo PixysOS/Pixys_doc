@@ -38,7 +38,37 @@ We aim to deliver an experience with original ideas and features along with the 
 
 [IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/eleven/eleven-stuff/features.png[/IMG]
 
-[B][SIZE="3"]Coming soon :)[/SIZE][/B]
+[B][SIZE="3"]
+* 3 finger screenshot
+* long press music control
+* scramble numers on pin entry
+* custom pattern grid sizes
+* smart space
+* new gen assistant
+* 90fps in pubg and simliar apps (for devices that support content based refresh rate)
+* Bt battery level on statusbar
+* kdragons monet theme engine with customisation
+* assistant voice typing in gboard
+* unlimited original quality backup on photos
+* burn in protection
+* AOD,cafeine and headsup qs tiles 
+* gesture bar length customisation with hide 
+* network traffic indicators
+* pixel 6 live wallpapers
+* gaming mode (ported from pixel 6)
+* ability to hide notification headers
+* battery idle manager with extreme battery saver
+* in call vibration options
+* vibration intensity customisation
+* icon pack and font customisations
+* pocket judge to prevent accidental wake up
+* brightness slider customisations
+* statusbar icon tuner
+* playback control gesture
+* advanced reboot options
+* added more themed icons on pixellauncher
+* privacy indicators
+[/SIZE][/B]
 
 [IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/eleven/eleven-stuff/source.png[/IMG]
 [B]Pixys:[/B] [URL="https://github.com/PixysOS"]PixysOS[/URL]
@@ -63,8 +93,7 @@ Magisk versions higher than 14.0 doesn't require flash on every dirty flash depe
 
 [IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/eleven/eleven-stuff/download.png[/IMG]
 [B]ROM:[/B] Share your compile rom download link here
-[B]GApps:[/B] 
-[URL="https://opengapps.org"]OpenGApps[/URL]
+[B]Gapps are included[/B] 
 
 [IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/eleven/eleven-stuff/known_issues.png[/IMG]
 
