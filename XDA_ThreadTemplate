@@ -44,20 +44,19 @@ We aim to deliver an experience with original ideas and features along with the 
 * scramble numers on pin entry
 * custom pattern grid sizes
 * smart space
-* new gen assistant
+* new gen assistant [optional]
 * 90fps in pubg and simliar apps (for devices that support content based refresh rate)
 * Bt battery level on statusbar
 * kdragons monet theme engine with customisation
-* assistant voice typing in gboard
+* assistant voice typing in gboard [optional]
 * unlimited original quality backup on photos
 * burn in protection
 * AOD,cafeine and headsup qs tiles 
 * gesture bar length customisation with hide 
 * network traffic indicators
-* pixel 6 live wallpapers
-* gaming mode (ported from pixel 6)
+* pixel 6 live wallpapers [optional]
 * ability to hide notification headers
-* battery idle manager with extreme battery saver
+* extreme battery saver
 * in call vibration options
 * vibration intensity customisation
 * icon pack and font customisations
@@ -66,8 +65,12 @@ We aim to deliver an experience with original ideas and features along with the 
 * statusbar icon tuner
 * playback control gesture
 * advanced reboot options
-* added more themed icons on pixellauncher
+* added more themed icons on launcher
 * privacy indicators
+* face unlock
+* lockscreen media art
+* less boring headsups
+* custom vibration pattern
 [/SIZE][/B]
 
 [IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/twelve/twelve-stuff/source.png[/IMG]
@@ -76,10 +79,11 @@ We aim to deliver an experience with original ideas and features along with the 
 
 [IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/twelve/twelve-stuff/install.png[/IMG]
 [B]- Backup your personal data (Important)
-- Download the ROM and GApps and transfer them to your device.
+- There are GApps and Vanilla builds 
+- Download the edition you wish
 - Boot to recovery (TWRP recommended).
 - Wipe the System, Cache, Data and ART/Dalvik cache.
-- Flash the ROM + Gapps Zipfile.
+- Flash the ROM.
 - Flash the root solution of your choice (optional).
 - Reboot your device.[/B]
 
@@ -88,12 +92,11 @@ The root solution should be flashed together with every update (= ROM Update)[/B
 
 [SIZE=3][B]Currently Supported Root Solutions:[/B][/SIZE]
 
-[COLOR="DarkRed"][URL="https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445"]Magisk stable[/URL][/COLOR]
+[COLOR="DarkRed"][URL="https://github.com/topjohnwu/Magisk/releases"]Magisk stable[/URL][/COLOR]
 Magisk versions higher than 14.0 doesn't require flash on every dirty flash depending on the device, some devices need you to flash it every time, unless your maintainer says otherwise it should be fine
 
 [IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/twelve/twelve-stuff/download.png[/IMG]
 [B]ROM:[/B] Share your compile rom download link here
-[B]Gapps are included[/B] 
 
 [IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/twelve/twelve-stuff/known_issues.png[/IMG]
 
@@ -102,14 +105,15 @@ You tell... :P
 [IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/twelve/twelve-stuff/credits.png[/IMG]
 
 - Google for AOSP
-- AOSCP
 - Dirty Unicorns
 - Pixel experience
 - AOSP extended
 - LineageOS
-- Nitrogen Os
-- Bootleggers Rom
+- Nitrogen OS
 - Superior OS
+- Statix OS
+- YAAP
+- Krypton AOSP
 - AICP & POSP Team for thread template idea
 - Also many pro devlopers who all help us to bring this rom to you..
 - Please let us know if we forgot to mention your name in credits..[/CENTER]
@@ -123,11 +127,11 @@ only mention the main ones though, probably the top four or so, otherwise this l
 [B]Kernel source:[/B]
 [B]Put the Github link to your kernel HERE (mandatory), not posting the kernel source violates the GPL, and also violates the rules on XDA ...[/B]
 
-[B]ROM OS Version:[/B] 12
+[B]ROM OS Version:[/B] 12L
 [B]ROM Kernel:[/B] Linux x.x.y (EG: 4.4.y)
 [B]Based On:[/B] AOSP
 
 [B][U]Version Information[/U][/B]
 [B]Status:[/B] Beta/Stable
-[B]Current Version:[/B] v4.x
+[B]Current Version:[/B] v5.1.x
 [B]Release Date:[/B] mm-dd-yyyy
