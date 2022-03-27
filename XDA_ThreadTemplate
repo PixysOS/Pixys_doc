@@ -1,4 +1,4 @@
-[CENTER][IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/eleven/eleven-stuff/pixys_banner.png[/IMG]
+[CENTER][IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/twelve/twelve-stuff/pixys_banner.png[/IMG]
 
 [CODE]#include <std_disclaimer.h>
 /*
@@ -12,12 +12,12 @@
  */[/CODE]
 
 
-[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/eleven/eleven-stuff/about.png[/IMG]
+[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/twelve/twelve-stuff/about.png[/IMG]
 Pixys is a butter smooth Android aftermarket firmware. We handpicked the best features around and are adding our own juice into it.
 Get ready to taste the unique features it brings with itself.
 We aim to deliver an experience with original ideas and features along with the useful things the community is accustomed to.
 
-[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/eleven/eleven-stuff/team.png[/IMG]
+[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/twelve/twelve-stuff/team.png[/IMG]
  [MENTION=7868666]Subinsmani[/MENTION]
  [MENTION=4912374]rahul9999[/MENTION]
  [MENTION=7598239]@ki[/MENTION]
@@ -29,14 +29,14 @@ We aim to deliver an experience with original ideas and features along with the 
  [MENTION=8926624]Gero[/MENTION]
  [MENTION=6969064]melvingarcia[/MENTION]
 
-[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/eleven/eleven-stuff/donation.png[/IMG]]
+[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/twelve/twelve-stuff/donation.png[/IMG]]
 
 [URL="https://www.paypal.me/SubinsMani"]Support Us if you like our work[/URL]
 
 [SIZE=+1]Got an issue or suggestion? Reach us at[/SIZE]
 [B]Telegram[/B]: [URL]https://telegram.me/pixysos_chat[/URL]
 
-[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/eleven/eleven-stuff/features.png[/IMG]
+[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/twelve/twelve-stuff/features.png[/IMG]
 
 [B][SIZE="3"]
 * 3 finger screenshot
@@ -70,11 +70,11 @@ We aim to deliver an experience with original ideas and features along with the 
 * privacy indicators
 [/SIZE][/B]
 
-[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/eleven/eleven-stuff/source.png[/IMG]
+[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/twelve/twelve-stuff/source.png[/IMG]
 [B]Pixys:[/B] [URL="https://github.com/PixysOS"]PixysOS[/URL]
 [B]Pixys Device Sources:[/B] [URL="https://github.com/PixysOS-Devices"]PixysOSDevices[/URL]
 
-[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/eleven/eleven-stuff/install.png[/IMG]
+[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/twelve/twelve-stuff/install.png[/IMG]
 [B]- Backup your personal data (Important)
 - Download the ROM and GApps and transfer them to your device.
 - Boot to recovery (TWRP recommended).
@@ -91,15 +91,15 @@ The root solution should be flashed together with every update (= ROM Update)[/B
 [COLOR="DarkRed"][URL="https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445"]Magisk stable[/URL][/COLOR]
 Magisk versions higher than 14.0 doesn't require flash on every dirty flash depending on the device, some devices need you to flash it every time, unless your maintainer says otherwise it should be fine
 
-[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/eleven/eleven-stuff/download.png[/IMG]
+[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/twelve/twelve-stuff/download.png[/IMG]
 [B]ROM:[/B] Share your compile rom download link here
 [B]Gapps are included[/B] 
 
-[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/eleven/eleven-stuff/known_issues.png[/IMG]
+[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/twelve/twelve-stuff/known_issues.png[/IMG]
 
 You tell... :P
 
-[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/eleven/eleven-stuff/credits.png[/IMG]
+[IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/twelve/twelve-stuff/credits.png[/IMG]
 
 - Google for AOSP
 - AOSCP
