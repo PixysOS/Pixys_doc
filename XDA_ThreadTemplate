@@ -71,6 +71,15 @@ We aim to deliver an experience with original ideas and features along with the 
 * lockscreen media art
 * less boring headsups
 * custom vibration pattern
+* exFAT support
+* quick tap from pixel
+* google pixel game mode
+* Option to force full screen for apps
+* Hotspot: hidden SSID mode
+* Hotspot: customize the auto-off timeout
+* Hotspot client manager
+* charging ripple animation
+* black theme
 [/SIZE][/B]
 
 [IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/twelve/twelve-stuff/source.png[/IMG]
@@ -133,5 +142,5 @@ only mention the main ones though, probably the top four or so, otherwise this l
 
 [B][U]Version Information[/U][/B]
 [B]Status:[/B] Beta/Stable
-[B]Current Version:[/B] v5.1.x
+[B]Current Version:[/B] v5.1.2
 [B]Release Date:[/B] mm-dd-yyyy
