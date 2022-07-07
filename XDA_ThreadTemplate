@@ -80,6 +80,17 @@ We aim to deliver an experience with original ideas and features along with the 
 * Hotspot client manager
 * charging ripple animation
 * black theme
+* hw key customisation for supported devices
+* touch gestures for supported devices
+* background process killer
+* option for strict standby policy
+* option to reduce 3 second screen record timer 
+* QR Code scanner tile 
+* Integrated Google Lens into Screenshot UI 
+* applock
+* GameSpace 
+* repainter integration service
+* re designed seekbar
 [/SIZE][/B]
 
 [IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/twelve/twelve-stuff/source.png[/IMG]
@@ -118,13 +129,13 @@ You tell... :P
 - Pixel experience
 - AOSP extended
 - LineageOS
-- Nitrogen OS
 - Superior OS
 - Statix OS
 - YAAP
 - Krypton AOSP
+- Project-Kaleidoscope
 - AICP & POSP Team for thread template idea
-- Also many pro devlopers who all help us to bring this rom to you..
+- Also many pro developers who all help us to bring this rom to you..
 - Please let us know if we forgot to mention your name in credits..[/CENTER]
 
 [B][U][SIZE="4"][NOPARSE]XDA:DevDB Information[/NOPARSE][/SIZE][/U][/B]
@@ -142,5 +153,5 @@ only mention the main ones though, probably the top four or so, otherwise this l
 
 [B][U]Version Information[/U][/B]
 [B]Status:[/B] Beta/Stable
-[B]Current Version:[/B] v5.1.2
+[B]Current Version:[/B] v5.1.4
 [B]Release Date:[/B] mm-dd-yyyy
