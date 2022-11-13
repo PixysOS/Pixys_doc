@@ -41,56 +41,42 @@ We aim to deliver an experience with original ideas and features along with the 
 [B][SIZE="3"]
 * 3 finger screenshot
 * long press music control
-* scramble numers on pin entry
-* custom pattern grid sizes
 * smart space
-* new gen assistant [optional]
-* 90fps in pubg and simliar apps (for devices that support content based refresh rate)
+* new gen assistant
+* 90fps in pubg and simliar apps
 * Bt battery level on statusbar
 * kdragons monet theme engine with customisation
-* assistant voice typing in gboard [optional]
+* assistant voice typing in gboard
 * unlimited original quality backup on photos
-* burn in protection
-* AOD,cafeine and headsup qs tiles 
+* AOD,cafeine,sound search, batteryshare, data switch and headsup qs tiles 
 * gesture bar length customisation with hide 
 * network traffic indicators
-* pixel 6 live wallpapers [optional]
-* ability to hide notification headers
-* extreme battery saver
+* pixel 4/5/6 live wallpapers
+* Extreme battery saver
 * in call vibration options
-* vibration intensity customisation
-* icon pack and font customisations
-* pocket judge to prevent accidental wake up
-* brightness slider customisations
 * statusbar icon tuner
 * playback control gesture
 * advanced reboot options
 * added more themed icons on launcher
 * privacy indicators
-* face unlock
-* lockscreen media art
-* less boring headsups
-* custom vibration pattern
-* exFAT support
-* quick tap from pixel
-* google pixel game mode
-* Option to force full screen for apps
+* GameSpace
 * Hotspot: hidden SSID mode
 * Hotspot: customize the auto-off timeout
 * Hotspot client manager
 * charging ripple animation
 * black theme
-* hw key customisation for supported devices
-* touch gestures for supported devices
-* background process killer
-* option for strict standby policy
-* option to reduce 3 second screen record timer 
-* QR Code scanner tile 
-* Integrated Google Lens into Screenshot UI 
-* applock
-* GameSpace 
 * repainter integration service
 * re designed seekbar
+* custom vibration pattern for notification and ringtone
+* App lock
+* incall vibrations
+* vpn for hotspot
+* force full screen
+* Face unlock
+* suppress notifications sound/vibration if screen is ON
+* Live translate
+* Quick tap
+* Light QS theme
 [/SIZE][/B]
 
 [IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/twelve/twelve-stuff/source.png[/IMG]
@@ -99,9 +85,8 @@ We aim to deliver an experience with original ideas and features along with the 
 
 [IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/twelve/twelve-stuff/install.png[/IMG]
 [B]- Backup your personal data (Important)
-- There are GApps and Vanilla builds 
-- Download the edition you wish
-- Boot to recovery (TWRP recommended).
+- Download latest build
+- Boot to recovery (PixysOS recovery recommended).
 - Wipe the System, Cache, Data and ART/Dalvik cache.
 - Flash the ROM.
 - Flash the root solution of your choice (optional).
@@ -147,11 +132,11 @@ only mention the main ones though, probably the top four or so, otherwise this l
 [B]Kernel source:[/B]
 [B]Put the Github link to your kernel HERE (mandatory), not posting the kernel source violates the GPL, and also violates the rules on XDA ...[/B]
 
-[B]ROM OS Version:[/B] 12L
+[B]ROM OS Version:[/B] 13
 [B]ROM Kernel:[/B] Linux x.x.y (EG: 4.4.y)
 [B]Based On:[/B] AOSP
 
 [B][U]Version Information[/U][/B]
 [B]Status:[/B] Beta/Stable
-[B]Current Version:[/B] v5.1.4
+[B]Current Version:[/B] v6.0.0
 [B]Release Date:[/B] mm-dd-yyyy
