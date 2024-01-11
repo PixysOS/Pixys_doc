@@ -29,7 +29,7 @@ We aim to deliver an experience with original ideas and features along with the 
 
 [IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/twelve/twelve-stuff/donation.png[/IMG]]
 
-[URL="https://www.paypal.me/SubinsMani"]Support Us if you like our work[/URL]
+[URL="https://www.paypal.me/SubinsMani"] Support Us if you like our work[/URL]
 
 [SIZE=+1]Got an issue or suggestion? Reach us at[/SIZE]
 [B]Telegram[/B]: [URL]https://telegram.me/pixysos_chat[/URL]
@@ -43,8 +43,7 @@ We aim to deliver an experience with original ideas and features along with the 
 * new gen assistant
 * 90fps in pubg and simliar apps
 * Bt battery level on statusbar
-* kdragons monet theme engine with customisation
-* assistant voice typing in gboard
+* monet theme engine with customisation
 * unlimited original quality backup on photos
 * AOD,cafeine,sound search, batteryshare, data switch and headsup qs tiles 
 * gesture bar length customisation with hide 
@@ -63,8 +62,11 @@ We aim to deliver an experience with original ideas and features along with the 
 * Hotspot client manager
 * charging ripple animation
 * black theme
-* repainter integration service
-* re designed seekbar
+* burn in protection
+* auto brightness button in qs
+* Bt qs dialog
+* Cloned apps
+* idle battery manager
 * custom vibration pattern for notification and ringtone
 * App lock
 * incall vibrations
@@ -72,15 +74,10 @@ We aim to deliver an experience with original ideas and features along with the 
 * force full screen
 * Face unlock
 * suppress notifications sound/vibration if screen is ON
-* Live translate
 * Quick tap
-* Light QS theme
-* QS data info
-* custom pattern grid sizes
-* hw key customisation for supported devices
-* touch gestures for supported devices
 * Integrated Google Lens into Screenshot UI 
 * pocket judge to prevent accidental wake up
+* Wifi/Bt auto turn off
 
 [/SIZE][/B]
 
@@ -96,14 +93,6 @@ We aim to deliver an experience with original ideas and features along with the 
 - Flash the ROM.
 - Flash the root solution of your choice (optional).
 - Reboot your device.[/B]
-
-[B]The ROM has GApps persistence in between dirty flashes, so you only have to flash them once!
-The root solution should be flashed together with every update (= ROM Update)[/B]
-
-[SIZE=3][B]Currently Supported Root Solutions:[/B][/SIZE]
-
-[COLOR="DarkRed"][URL="https://github.com/topjohnwu/Magisk/releases"]Magisk stable[/URL][/COLOR]
-Magisk versions higher than 14.0 doesn't require flash on every dirty flash depending on the device, some devices need you to flash it every time, unless your maintainer says otherwise it should be fine
 
 [IMG]https://raw.githubusercontent.com/PixysOS/Pixys_doc/twelve/twelve-stuff/download.png[/IMG]
 [B]ROM:[/B] Share your compile rom download link here
@@ -136,11 +125,11 @@ only mention the main ones though, probably the top four or so, otherwise this l
 [B]Kernel source:[/B]
 [B]Put the Github link to your kernel HERE (mandatory), not posting the kernel source violates the GPL, and also violates the rules on XDA ...[/B]
 
-[B]ROM OS Version:[/B] 13
-[B]ROM Kernel:[/B] Linux x.x.y (EG: 4.4.y)
+[B]ROM OS Version:[/B] 14
+[B]ROM Kernel:[/B] Linux x.x.y (EG: 5.4.y)
 [B]Based On:[/B] AOSP
 
 [B][U]Version Information[/U][/B]
 [B]Status:[/B] Beta/Stable
-[B]Current Version:[/B] v6.1.1
+[B]Current Version:[/B] v7.1.1
 [B]Release Date:[/B] mm-dd-yyyy
